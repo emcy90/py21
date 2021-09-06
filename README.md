@@ -1,2 +1,2 @@
 # PythonAI
-term1 python AI
+# various things from Python with AI-focus at program
