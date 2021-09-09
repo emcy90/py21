@@ -6,3 +6,6 @@ add places to go to in the game
 add clear console-function (import os and do clear-console-function must be added for each os-type)
 add ansi colour escape sequences if I want colours
 add let user select colour for certain types of situation like action-colour and directions-colour
+add specific things that can happen if user is in a certain area like bedroom and alarm-clock = kitty can mute alarm xD
+use formatted strings when needed
+extend dictionary with items?
