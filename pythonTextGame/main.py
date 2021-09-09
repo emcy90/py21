@@ -5,9 +5,9 @@ def main():
     row = 0
     col = 0
     running = True
+    print("Welcome to the Zelda text adventure")
 
     while running:
-        print("Welcome to the Zelda text adventure")
         print("You are now in", the_map[row][col]['description'])
         print("There are exits to the", the_map[row][col]['exits'])
 

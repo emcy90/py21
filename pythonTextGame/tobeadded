@@ -1,0 +1,8 @@
+add random-function
+add list of random things that can happen
+add parse for svg-file so that directions can be more appropriate based on how things actually look
+add actions that can be taken
+add places to go to in the game
+add clear console-function (import os and do clear-console-function must be added for each os-type)
+add ansi colour escape sequences if I want colours
+add let user select colour for certain types of situation like action-colour and directions-colour
