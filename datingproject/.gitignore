@@ -1,0 +1,4 @@
+dbconfig.py
+.idea/
+venv/
+*.pyc
